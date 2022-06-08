@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "215F67C6-3ACC-4BF8-BC93-189C30591B61"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D4727C57-20B1-4184-96E7-D34E37CB4D63"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IntelligentBudgetIOS/RegistrarGastosVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "RegistrarGastosVC"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "D4727C57-20B1-4184-96E7-D34E37CB4D63 - d7010a6d9daa2701"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IntelligentBudgetIOS.RegistrarGastosVC.arrGastos.getter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "IntelligentBudgetIOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a01653451/Desktop/IntelligentBudgetIOS/IntelligentBudgetIOS/RegistrarGastosVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "45">
+               </Location>
+               <Location
+                  uuid = "D4727C57-20B1-4184-96E7-D34E37CB4D63 - 66e16d66e523bc3d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IntelligentBudgetIOS.RegistrarGastosVC.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; IntelligentBudgetIOS.RegistrarGastosVC"
+                  moduleName = "IntelligentBudgetIOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a01653451/Desktop/IntelligentBudgetIOS/IntelligentBudgetIOS/RegistrarGastosVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "173">
+               </Location>
+               <Location
+                  uuid = "D4727C57-20B1-4184-96E7-D34E37CB4D63 - d7dc6f0f4b175dcb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IntelligentBudgetIOS.RegistrarGastosVC.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;IntelligentBudgetIOS.RegistrarGastosVC&gt;"
+                  moduleName = "IntelligentBudgetIOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a01653451/Desktop/IntelligentBudgetIOS/IntelligentBudgetIOS/RegistrarGastosVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "130">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
